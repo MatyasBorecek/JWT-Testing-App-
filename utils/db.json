@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "student@example.com",
+      "password": "$2a$10$zPiUkMOe5a77jKL5ydUN3O1SSevXCZqMEH02QPvfn7GPqTBQjMSn.",
+      "username": "student",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "email": "admin@example.com",
+      "password": "$2a$10$9RUpe16WFzD7JV.H/ncVK.4sPyJ4WfMoQUAN5m7R7K3W6GVbW9vQK",
+      "username": "admin",
+      "role": "admin"
+    }
+  ]
+}
