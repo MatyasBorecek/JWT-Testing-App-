@@ -24,8 +24,8 @@ This project provides a simple Node.js Express server demonstrating JWT (JSON We
 
 1.  **Clone the repository:**
     ```
-    git clone <your-repository-url>
-    cd <project-directory>
+    git clone https://github.com/MatyasBorecek/JWT-Testing-App-.git
+    cd JWT-Testing-App-
     ```
 
 2.  **Install dependencies:**
